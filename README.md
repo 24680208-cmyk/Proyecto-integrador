@@ -193,13 +193,14 @@ Todo el entorno se produce únicamente con código.
 
 # 📸 7. Evidencia Visual
 
+<img width="960" height="563" alt="image" src="https://github.com/user-attachments/assets/6a1bd92d-bc9e-4518-83c0-99d8965f1057" />
+
+<img width="960" height="564" alt="image" src="https://github.com/user-attachments/assets/594a19e6-d0ff-433d-9710-839d6ba8cb6b" />
 
 
 ---
 
 # 🎥 8. Video del Proyecto
-
-Puedes colocar tu video de dos formas:
 
 
 ---
