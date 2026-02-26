@@ -202,7 +202,7 @@ Todo el entorno se produce únicamente con código.
 
 # 🎥 8. Video del Proyecto
 
-https://github.com/24680208-cmyk/Proyecto-integrador/commit/94473bb970b413f6b2a6d3eb52e4af3eaf82f3ee#diff-7c16733729d9e626c0f7f3f5166de3d78a71fb31cc1fe89c13d4f4ad7bb1881f
+https://drive.google.com/file/d/1T8a9PAZAMycLLAYjKjOY8sf18FnVG2Dw/view?usp=drive_link
 ---
 # 📊 9. Conclusión
 
